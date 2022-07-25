@@ -1,5 +1,5 @@
-Name: Xanawer 
-Current Interest: Web Development (Fullstack), learning new programming languages and concepts. 
+Name: Xanawer /n
+Current Interest: Web Development (Fullstack), learning new programming languages and concepts. /n
 Future Plans: Working to improve my understanding of algorithms.
 
 Updated: 25/07/22
