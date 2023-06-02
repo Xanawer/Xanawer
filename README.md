@@ -41,15 +41,46 @@ I am passionate about web development and data science, and love to combine the 
 
 ## 🎨 Projects 
 
-### Project 1: [Project Name](https://github.com/[username]/[repository])
+### Project 1: [DefiSocialMedia](https://github.com/Xanawer/DefiSocialMedia))
 
-[Insert brief description here]
+Decentralized Social Media (DSM)
 
-### Project 2: [Project Name](https://github.com/[username]/[repository])
+Welcome to the Decentralized Social Media (DSM) platform! Our mission is to redefine the social media landscape by putting user privacy and data security at the forefront of our operations. 
 
-[Insert brief description here]
+Unlike traditional social media platforms, DSM is mounted on the Ethereum blockchain, providing unparalleled transparency and user control. Our decentralized structure ensures that the user data isn't owned by a central authority. Instead, users have full control over their data, how it's shared, and who can access it.
 
-[Insert other projects here]
+Key Features:
+
+- **Privacy**: With DSM, your data remains yours. Only you control who can access your information.
+- **Security**: Thanks to the Ethereum blockchain, every transaction and interaction is securely recorded and immutable.
+- **Transparency**: With a publicly accessible blockchain, every transaction can be audited, ensuring unparalleled transparency.
+- **Censorship Resistant**: Being decentralized, DSM is resilient to censorship. Your voice will always be heard.
+- **Advertisment Revenue Split**: Your post can become monetized if it generates enough ad-revenue. This is paid out in our own DefiCoin. 
+
+DSM is not just a social media platform; it's a revolution in how we think about and interact with social media. Get started today and experience the future of social media!
+
+
+### Project 2: [SlumberWatch](https://github.com/lxin42140/slumber-watch)
+
+Slumber Watch :baby: :zzz:
+
+Welcome to Slumber Watch, an IoT project designed with the aim to ensure the safety and well-being of babies during their sleep. Leveraging advanced computer vision and data analytics, our system monitors baby sleeping position and patterns to provide insights and alerts to parents and caregivers.
+
+Key Features :key:
+
+- **Sleeping Position Detection**: Uses cutting-edge computer vision techniques to accurately identify and monitor the baby's sleeping position.
+- **Sleeping Pattern Analysis**: Analyzes baby's sleeping patterns over time to provide insights on sleep quality and duration. This can be helpful in understanding and establishing healthy sleep routines.
+- **Real-Time Alerts**: Should the system detect any potentially unsafe sleeping positions, it instantly sends an alert to parents/caregivers, ensuring swift action can be taken.
+- **Data Visualization**: All collected data can be easily visualized through our user-friendly dashboard, helping you understand your baby's sleep habits better.
+
+Tech Stack :wrench:
+
+- IoT Device: MicroBit:v1, MicroBit:v2, Raspberry Pi, ESP32, Temperature/Pressure/Light/Distance(Ultrasonic) sensors, Digital Camera
+- Computer Vision: OpenCV, PIL 
+- Data Analytics: Python Sci-Kit, TensorFlow. 
+- Website: Svelte, Flask
+
+Slumber Watch isn't just an IoT project, it's a dedication towards enhancing child safety and aiding parents in their child-rearing journey. Join us today and contribute towards making baby's sleep safer and sounder!
 
 ## 📚 Education 
 
