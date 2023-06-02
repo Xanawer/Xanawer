@@ -4,8 +4,6 @@
 
 I am passionate about web development and data science, and love to combine the power of programming and data to solve real-world problems. I am always keen on learning new technologies, currently interested in AI-based models and how they can be applied to enterprise solutions. 
 
-[Insert information here]
-
 ## 🛠️ Skills
 
 ### 💻 Programming Languages:
@@ -21,22 +19,24 @@ I am passionate about web development and data science, and love to combine the 
 - React
 - Svelte
 
-## Database Frameworks: 
+## 🗄️ Database Frameworks: 
 
 - MySQL
 - PostgreSQL
 - MongoDB
 
-## DevOps: 
+## 🚀 DevOps: 
+
 - Docker
 - Kubernetes 
 - Google BigQuery
 - Azure
 - AWS 
 
-## Other: 
+## 🛠️ Other: 
+
 - Git
-- Unit Testing (using unit-testing libraries for the specific languages). 
+- Unit Testing (using unit-testing libraries for the specific languages)
 - Agile/Scrum 
 
 ## 🎨 Projects 
