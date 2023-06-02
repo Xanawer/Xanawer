@@ -82,6 +82,29 @@ Tech Stack :wrench:
 
 Slumber Watch isn't just an IoT project, it's a dedication towards enhancing child safety and aiding parents in their child-rearing journey. Join us today and contribute towards making baby's sleep safer and sounder!
 
+### Project 3: [DoctorWhereProject](https://github.com/[your_username]/ameliacsy/DoctorWhereProject)
+
+Doctor Where Project :hospital: :date:
+
+Welcome to the Doctor Where Project, a robust and user-friendly platform dedicated to streamlining the process of booking appointments with clinicians and General Practitioners. Our system combines the power of web technologies and advanced scheduling algorithms to provide a smooth and efficient booking experience for patients and healthcare professionals alike.
+
+Key Features :key:
+
+- **Flexible Scheduling**: Enables patients to find and book available slots that fit their schedule and preferred location.
+- **Intuitive UI**: Provides an easy-to-navigate user interface making the process of finding and booking an appointment straightforward.
+- **Automated Reminders**: Sends automatic reminders to patients about upcoming appointments, reducing the chances of missed appointments.
+- **Efficient Resource Management**: Helps clinicians and GPs manage their schedules efficiently, reducing downtime and increasing productivity.
+
+Tech Stack :wrench:
+
+- Back-end: Java EE, EJB
+- Front-end: Angular, Bootstrap
+- Database: MySQL
+- Other: Docker, Jenkins (for CI/CD)
+
+Doctor Where Project is more than just a scheduling platform. It's our contribution to making healthcare more accessible and efficient for clinics in Singapore. Join us today and help make a difference in people's health and well-being! Featured in NUS STePs 2022, voted most popular project. 
+
+
 ## 📚 Education 
 
 - B.S. in Information Systems, National University of Singapore, Singapore.
