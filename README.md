@@ -88,7 +88,18 @@ Slumber Watch isn't just an IoT project, it's a dedication towards enhancing chi
 
 ## 📄 Experience 
 
-[Insert experience here]
+- **Developer, NUS Computing Club**, National University of Singapore (2022 - Present)
+  - Leading a team of student developers to collaborate on open source projects, fostering a community of learning and growth for budding coders at NUS.
+
+- **NUS STePs Project**, National University of Singapore (2022)
+  - Developed a web-based appointment booking app using JavaScript, HTML, and CSS for the front-end and Java EE for the back-end. This application effectively handles scheduling, appointment notification, and payment details.
+
+- **Coursework**, National University of Singapore (2021 - 2023)
+  - Relevant Courses: Data Structures and Algorithms, Web Development, Mobile App Development, Database Systems, and Machine Learning/Artificial Inteligence.
+
+- **Hackathons and Coding Competitions**
+  - Actively participate in various Hackathons and Coding Competitions at NUS and beyond, applying theoretical knowledge to real-world problem-solving contexts. 
+
 
 ## 📬 Get in touch 
 
