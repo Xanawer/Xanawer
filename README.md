@@ -41,7 +41,7 @@ I am passionate about web development and data science, and love to combine the 
 
 ## 🎨 Projects 
 
-### Project 1: [DefiSocialMedia](https://github.com/Xanawer/DefiSocialMedia))
+### Project 1: [DefiSocialMedia](https://github.com/Xanawer/DefiSocialMedia)
 
 Decentralized Social Media (DSM)
 
